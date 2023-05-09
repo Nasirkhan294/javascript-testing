@@ -1,0 +1,23 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "Unit tests for a JavaScript app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nasirkhan294/javascript-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nasirkhan294/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/Nasirkhan294/javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
