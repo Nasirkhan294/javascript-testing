@@ -24,7 +24,7 @@ To run the Jest unit tests, run npm test in your terminal. This will execute all
 
 ## Writing Tests
 
-If you want to write your own Jest unit tests for [Your App Name], you can do so by creating a new file in the __tests__ directory with the .test.js extension. Jest will automatically pick up and run any files with this extension.
+If you want to write your own Jest unit tests for this project, you can do so by creating a new file in the __tests__ directory with the .test.js extension. Jest will automatically pick up and run any files with this extension.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
